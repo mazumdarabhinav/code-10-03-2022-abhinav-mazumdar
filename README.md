@@ -1,4 +1,4 @@
-# VAMSTER BMI SERVICE
+# VAMSTAR BMI SERVICE
 
 ## Description
 
