@@ -40,6 +40,7 @@ Total Number of overweight people: 1
 2. Create more stringent and edge test cases
 3. Read the data from an external source ( right now it is hardcoded in the service)
 4. Run the linter ( e.g. black/flake8) to follow python programing guidelines based on PEP-8
+5. Scale the application for next billion user using dask, spark etc. to handle more users.
 
 
 
